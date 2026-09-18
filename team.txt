@@ -1,1 +1,14 @@
+<<<<<<< HEAD
 Meghan Burt
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+Marc-Gabriel Bute 300502002
+=======
+Mehrad Esmaili 300495790
+>>>>>>> e3bc5d6aa557ae279881803192646e36c20ca7f4
+=======
+Erimi Orolugbagbe
+Mehrad Esmaili 300495790
+>>>>>>> 014700d5c1a0c7708c439fb959e5f2337a698989
+>>>>>>> cbec0fce8283c0983d60f9f6a71b4e064e3ad358
